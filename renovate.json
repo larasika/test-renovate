@@ -1,5 +1,5 @@
 {
-    "branchPrefix": "test-renovate/"
+    "branchPrefix": "test-renovate/",
     "username": "renovate-release",
     "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
     "onboarding": false,

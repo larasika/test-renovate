@@ -11,5 +11,5 @@ plugin_for = ["maya"]
 # Pixomondo internal variable used by `rezolve_me` for dev environment.
 # Overrides `requires`. Uncomment this only if needed.
 requires = [
-    "pytest-3.6"
+    "pytest-3.10.1"
 ]
